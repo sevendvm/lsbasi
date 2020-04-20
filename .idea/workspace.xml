@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd6488fa-bf40-49f9-b992-0431a771e8c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/part1/calc1.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/calc1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,9 +36,19 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="202" key="SettingsEditor" timestamp="1585586587642">
+    <state x="640" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585687553453">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="461" y="202" key="SettingsEditor/0.40.1920.1040/1920.0.1280.984@0.40.1920.1040" timestamp="1585586587642" />
+    <state x="640" y="288" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1920.1040/1920.0.1280.984@0.40.1920.1040" timestamp="1585687553453" />
+    <state x="922" y="181" key="SettingsEditor" timestamp="1585857284249">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="615" y="241" key="SettingsEditor/0.40.1920.1040/1920.0.1280.984@0.40.1920.1040" timestamp="1585688029299" />
+    <state x="922" y="181" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1585857284249" />
+    <state x="636" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1585938950076">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="636" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/1920.0.1280.984@0.40.1920.1040" timestamp="1585687533601" />
+    <state x="636" y="384" key="com.intellij.ide.util.TipDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1585938950076" />
   </component>
 </project>
